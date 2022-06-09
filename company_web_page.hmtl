@@ -1,0 +1,28 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Brocadero</TITLE>
+
+</HEA>
+
+<BPDY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="images/testlogo.jpeg" ALIGN="BOTTOM" heigh="250" width="400"
+</CENTER>
+
+<HR>
+
+<H1> This i a Header</H1>
+
+<H2> This is medium header</H2>
+
+<P> This id a new paragraph!
+
+<P> <B>This is a new paragraph!</>
+
+<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+
+<HR>
+
+</BODY>
